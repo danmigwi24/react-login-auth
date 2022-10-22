@@ -74,6 +74,7 @@ const Register = () => {
                     Must begin wit a letter<br />
                     Letter,underscore,numbers,hyphen are allowed<br />
                 </p>
+                
             </form>
         </section>
     )
